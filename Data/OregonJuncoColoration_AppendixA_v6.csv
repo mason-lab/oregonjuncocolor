@@ -1,0 +1,207 @@
+"Museum","Catalog.Number","Day","Month","Year","Subspecies","Sex","Age","Country","State.Province","County","Location","Latitude","Longitude","Hood.L","Hood.a","Hood.b","Back.L","Back.a","Back.b"
+"UCLA",216001,7,8,1927,"montanus","F","I","United States","Idaho","Boundary","HUNT PEAK, IDAHO",48.55,-116.6833,33.51,4.31,12.78,30.21,2.5,8.1
+"UCLA",20009,1,4,1927,"montanus","M","U","United States","Idaho","Kootenai","FERNAN HILL, IDAHO",47.6833,-116.7167,31.1,2.95,11.69,17.92,1.91,5.11
+"UCLA",18021,5,9,1926,"montanus","M","I","United States","Idaho","Kootenai","COEURD'ALENE IDAHO",47.6833333,-116.76667,27.14,4.59,12.59,18.41,1.88,6.32
+"UCLA",18020,23,8,1926,"montanus","M","I","United States","Idaho","Kootenai","COEURD'ALENE IDAHO",47.6833333,-116.76667,31.53,5.33,14.23,25.08,2.11,7.73
+"UCLA",18025,18,10,1926,"montanus","M","U","United States","Idaho","Kootenai","COEURD'ALENE IDAHO",47.6833333,-116.76667,29.9,4.14,12.89,21.29,1.8,5.11
+"UCLA",18023,27,9,1926,"montanus","M","I","United States","Idaho","Kootenai","COEURD'ALENE IDAHO",47.6833333,-116.76667,33.89,4.2,12.52,21.11,1.66,4.95
+"UCLA",18022,27,9,1926,"montanus","F","I","United States","Idaho","Kootenai","COEURD'ALENE IDAHO",47.6833333,-116.76667,30.56,4.17,12.85,19.85,2.08,5.12
+"UCLA",18018,14,9,1926,"montanus","F","U","United States","Idaho","Kootenai","COEURD'ALENE IDAHO",47.6833333,-116.76667,32.06,4.48,13.87,24.25,2.33,7.06
+"UCLA",19026,21,10,1926,"montanus","M","A","United States","Idaho","Kootenai","COEURD'ALENE IDAHO",47.677683,-116.78047,30.71,4.01,11.51,21.41,1.79,5.17
+"UCLA",18019,15,8,1926,"montanus","F","U","United States","Idaho","Kootenai","HAYDEN LAKE, KOOTENAI IDAHO",47.7666667,-116.78333,31.75,5.02,14.6,29.02,1.7,7.46
+"UCLA",21.756,18,9,1927,"montanus","M","A","United States","Idaho","Bonner","CHASES LAKE BONNER CO. IDAHO",48.459587,-116.824564,30.35,4.65,13.07,21.78,1.78,4.98
+"SDNHM",28532,16,3,1924,"montanus","F","U","United States","Oregon","Malheur","ONTARIO, MALHEUR CO., OR",44.0265525,-116.96294,30.92,3.93,15.46,25.51,2.29,9.13
+"SDNHM",28506,12,6,1925,"montanus","F","U","United States","Oregon","Wallowa","BILLY MEADOWS RANGE. STA., WALLOWA CO. OR",45.829596,-117.04238,33.07,3.64,13.96,26.61,2.01,8.19
+"SDNHM",28511,13,6,1925,"montanus","F","U","United States","Oregon","Wallowa","BILLY MEADOWS RANGE. STA., WALLOWA CO. OR",45.829596,-117.04238,30.95,3.1,12.53,29.26,1.49,6.64
+"SDNHM",28504,12,6,1925,"montanus","M","U","United States","Oregon","Wallowa","BILLY MEADOWS RANGE, STA. WALLOWA CO. OR",45.829596,-117.04238,30.85,3.72,13.31,20.19,2.08,5.31
+"SDNHM",28505,12,6,1925,"montanus","M","U","United States","Oregon","Wallowa","BILLY MEADOWS RANGE, STA. WALLOWA CO. OR",45.829596,-117.04238,31.06,2.97,11.17,14.82,2.43,6.16
+"SDNHM",28585,27,5,1933,"montanus","F","U","United States","Oregon","Baker","LOOKOUT MTN. BAKER CO., OR",44.6090506,-117.27852,33.56,2.89,12.78,26.32,2.05,6.58
+"SDNHM",28502,13,5,1907,"montanus","F","U","United States","Oregon","Baker","ANTHONY, OR.",44.9821017,-117.36991,32.07,3.31,12.19,23.06,2.17,6.23
+"SDNHM",28498,8,4,1906,"montanus","M","U","United States","Oregon","Baker","ANTHONY, OR.",44.9821017,-117.36991,26.96,3.11,11.2,17.69,2.18,5.35
+"SDNHM",28499,15,4,1906,"montanus","M","U","United States","Oregon","Baker","ANTHONY, OR.",44.9821017,-117.36991,30.11,3.63,12.89,16.64,2.04,4.84
+"SDNHM",28500,15,4,1906,"montanus","M","U","United States","Oregon","Baker","ANTHONY, OR.",44.9821017,-117.36991,30.51,3.43,12.54,22.29,2.33,6.39
+"SDNHM",28501,29,4,1906,"montanus","M","U","United States","Oregon","Baker","ANTHONY, OR.",44.9821017,-117.36991,31.66,3.33,12.64,14.26,2.61,6.01
+"SDNHM",28514,12,9,1924,"montanus","F","A","United States","Oregon","Umatilla","MEACHAM OR",45.5065187,-118.42135,31.73,5.66,14.48,22.4,2.37,7.14
+"SDNHM",28587,26,5,1933,"montanus","F","U","United States","Oregon","Umatilla","MEACHAM OR",45.5065187,-118.42135,33.76,2.85,12.53,28.4,1.1,5.58
+"SDNHM",28586,26,5,1933,"montanus","M","U","United States","Oregon","Umatilla","MEACHAM OR.",45.5065187,-118.42135,31.97,2.43,10.53,17.82,2.04,5.33
+"SDNHM",28525,8,4,1917,"montanus","F","U","United States","Oregon","Umatilla","PENDLETON OR",45.672075,-118.7886,32.08,3.44,13.71,24.97,2.38,7.57
+"SDNHM",28515,12,4,1923,"montanus","F","U","United States","Oregon","Grant","HAMILTON OR",44.7404274,-119.30915,32.03,3.71,14.24,26.94,2,7.37
+"UCLA",51008,3,5,1950,"montanus","F","U","Canada","British Columbia","Okanagan-Similkameen","DRY LAKE, 17 MI. N OF PRINCETON, BC",49.648361,-120.62145,31.76,3.91,13.33,24.46,2.01,5.52
+"UCLA",51009,3,5,1950,"montanus","M","U","Canada","British Columbia","Okanagan-Similkameen","DRY LAKE 17 MI. N OF PRINCETON, B.C. EDGE OF CONFIEROUS FOREST",49.648361,-120.62145,30.39,3.59,14.1,16.94,2.09,6.01
+"SDNHM",28637,29,6,1941,"oreganus","F","U","United States","Alaska","Wrangell-Petersburg","WRANGLE, ALASKA",56.4598411,-132.3487,27.37,5.65,16.56,19.93,2,6.49
+"SDNHM",28639,29,6,1941,"oreganus","M","U","United States","Alaska","Wrangell-Petersburg","WRANGLE, ALASKA",56.4598411,-132.3487,25.26,5.24,14.53,14.31,1.59,4.68
+"LACM",23639,19,11,1919,"oreganus","M","U","United States","Alaska","Prince of Wales-Outer Ketchi","CRAIG, PRINCE OF WALES ALASKA",55.4760513,-133.15002,27.9,6.55,16.34,17.06,1.97,6.94
+"LACM",23640,20,11,1919,"oreganus","M","U","United States","Alaska","Prince of Wales-Outer Ketchi","CRAIG, PRINCE OF WALES ALASKA",55.4760513,-133.15002,25.4,6.92,15.97,13.66,1.67,5.92
+"SDNHM",28662,2,7,1941,"oreganus","M","U","United States","Alaska","Juneau","MECHENHALL RIDGE, JUNEAU, ALASLA",58.3840783,-134.58973,27.22,6.04,16.03,18.29,1.95,5.54
+"SDNHM",28664,2,7,1941,"oreganus","M","U","United States","Alaska","Juneau","MENDENHALL RIDGE, JUNEAU, ALASKA",58.385698,-134.59248,29.64,4.4,12.97,19.71,1.59,4.51
+"LACM",23648,14,8,1912,"oreganus","F","I","United States","Alaska","Sitka","SITKA",57.0531,-135.33,27.95,5,12.59,24.46,3.01,9.22
+"LACM",23649,24,9,1913,"oreganus","M","U","United States","Alaska","Sitka","SITKA",57.0531,-135.33,25.69,4.99,12.95,15.54,2.13,6.27
+"SDNHM",28649,15,7,1941,"oreganus","F","U","United States","Alaska","Skagway-Yakutat-Angoon","BEAR TRACK COVE",58.591606,-135.852344,29.48,4.52,15.16,21.19,2.29,7.33
+"SDNHM",28648,15,7,1941,"oreganus","M","U","United States","Alaska","Skagway-Yakutat-Angoon","BEAR TRACK COVE",58.591606,-135.852344,30.3,3.73,13.5,18.01,2.16,6.26
+"SDNHM",28650,15,7,1941,"oreganus","M","U","United States","Alaska","Skagway-Yakutat-Angoon","BEAR TRACK COVE",58.591606,-135.852344,27.26,6.29,15.13,17.71,1.73,5.02
+"SDNHM",28651,16,7,1941,"oreganus","M","U","United States","Alaska","Skagway-Yakutat-Angoon","BEAR TRACK COVE",58.591606,-135.852344,25.68,5.16,13.93,16.31,1.68,5.53
+"SDNHM",28652,16,7,1941,"oreganus","M","U","United States","Alaska","Skagway-Yakutat-Angoon","BEAR TRACK COVE",58.591606,-135.852344,26.47,4.36,13.57,20.69,1.82,5.09
+"SDNHM",28653,16,7,1941,"oreganus","M","U","United States","Alaska","Skagway-Yakutat-Angoon","BEAR TRACK COVE",58.591606,-135.852344,28.29,3.42,12.49,19.56,1.44,4.32
+"SDNHM",28654,16,7,1941,"oreganus","M","U","United States","Alaska","Skagway-Yakutat-Angoon","BEAR TRACK COVE",58.591606,-135.852344,25.4,5.34,13.9,18.8,1.45,5
+"SDNHM",28655,16,7,1941,"oreganus","M","U","United States","Alaska","Skagway-Yakutat-Angoon","BEAR TRACK COVE",58.591606,-135.852344,25.95,4.89,14.56,19.83,1.6,4.61
+"SDNHM",12490,22,10,1929,"pinosus","M","U","United States","California","Monterey","1 M. SW JOLON, MONTEREY CO. CALIF",35.960766,-121.188943,32.84,5.85,16.23,17.86,2.1,6.1
+"SDNHM",45675,2,10,1988,"pinosus","F","U","United States","California","Monterey","PLASKETT RIDGE RD. 2.2 ROAD MI EAST OF HIGHWAY 1",35.914381,-121.426277,32.35,5.65,15.76,28.14,3.81,11.24
+"SDNHM",45676,2,10,1988,"pinosus","F","U","United States","California","Monterey","PLASKETT RIDGE RD. 2.2 ROAD MI EAST OF HIGHWAY 1",35.914381,-121.426277,34.17,8.25,18.65,27.44,3.97,11.98
+"SDNHM",45677,2,10,1988,"pinosus","M","U","United States","California","Monterey","PLASKETT RIDGE RD. 2.2 ROAD MI. EAST OF HIGHWAY, MONTEREY CO.",35.914381,-121.426277,32.04,6.85,16.4,19.01,2.55,7.01
+"SDNHM",46651,14,10,1989,"pinosus","M","U","United States","California","Monterey","2 MI. E OF POINT GORDA, MONTEREY CO.",35.93325,-121.440599,32.71,6.09,14.45,17.49,1.62,4.62
+"SDNHM",46677,14,10,1989,"pinosus","M","U","United States","California","Monterey","2 MI. E OF POINT GORDA, MONTEREY CO.",35.93325,-121.440599,31.71,6.76,15.99,16.98,2.19,5.72
+"SDNHM",45475,4,10,1988,"pinosus","M","U","United States","California","Monterey","1.6 MI. SE OF CONE PEAK",36.035553,-121.474533,30.02,6.68,16.08,20,1.74,4.24
+"SDNHM",3478,28,8,1970,"pinosus","M","U","United States","California","San Benito","3 MI SE SAN JUAN BAUTISTA",36.818759,-121.49342,32.77,5.91,15.91,22.65,1.96,4.67
+"SDNHM",42314,28,5,1983,"pinosus","M","U","United States","California","Monterey","4 MI W. OF SUMMIT OF CHEWS RIDGE, 4800-, MONTEREY CO.",36.405281,-121.822128,34.45,8.49,20.82,15.98,2.3,6.47
+"SDNHM",34449,23,8,1915,"pinosus","F","U","United States","California","Monterey","MONTEREY",36.600238,-121.894676,34.13,7.22,18.56,28.55,4.39,13.83
+"SDNHM",34450,23,8,1915,"pinosus","F","U","United States","California","Monterey","MONTEREY CA",36.600238,-121.894676,31.9,7.02,17.29,21.69,2.49,7.97
+"SDNHM",28673,7,9,1914,"pinosus","F","U","United States","California","Monterey","PACIFIC GROVE",36.617738,-121.916622,30.92,6.25,17.75,25.29,2.06,7.84
+"SDNHM",28674,1,9,1916,"pinosus","M","U","United States","California","Monterey","PACIFIC GROVE",36.617738,-121.916622,28.04,5.48,15.23,16.96,2.15,6.36
+"SDNHM",28672,11,5,1892,"pinosus","M","U","United States","California","Santa Cruz","GLENWOOD",37.10828,-121.986626,28.14,6.34,17.13,18.17,2.41,7.15
+"SDNHM",35223,22,11,1956,"pinosus","F","U","United States","California","Contra Costa","1.8 MI S, 1 MI E ORINDA",37.851057,-122.161178,30.29,7.11,17.89,17.74,2.05,6.75
+"SDNHM",1535,23,11,1917,"pinosus","F","U","United States","California","San Mateo","PORTOLA",37.3833,-122.2333,30.17,7.15,17.04,21.07,3.44,9.92
+"SDNHM",34451,26,9,1916,"pinosus","M","U","United States","California","San Mateo","PORTOLA",37.3833,-122.2333,29.91,7.55,15.27,22.22,1.22,3.94
+"SDNHM",34452,26,9,1916,"pinosus","M","I","United States","California","San Mateo","PORTOLA",37.3833,-122.2333,29.13,6.56,15.87,19.07,1.52,5.76
+"SDNHM",35221,8,2,1958,"pinosus","M","U","United States","California","Alameda","HASTE ST. BERKELEY, ALAMEDA CO., CA",37.871593,-122.272747,25.92,5.84,17.06,16.75,2.44,7.95
+"UCLA",20280,24,6,1922,"shufeldti","F","U","United States","Washington","Chelan","CHELAN COUNTY",47.841784,-120.558775,32.46,3.71,14.33,24.15,2.03,7.39
+"UCLA",20284,24,6,1922,"shufeldti","F","U","United States","Washington","Chelan","CHELAN COUNTY",47.841784,-120.558775,30.38,5.34,16.91,22.17,2.2,7.62
+"UCLA",20259,20,5,1924,"shufeldti","M","U","United States","Washington","Kittitas","KITTITAS COUNTY",47.1953976,-120.93925,28.09,3.67,12.87,13.15,1.56,5.47
+"SDNHM",442877,1,9,1978,"shufeldti","M","I","United States","Washington","Kittitas","KITTITAS COUNTY",47.1953976,-120.93925,32.14,5.14,14.43,23.51,2.58,7.5
+"UCLA",26375,6,5,1925,"shufeldti","M","U","United States","Oregon","Deschutes","TUMALO CREEK, BEND, DESCHUTES CO., OR",44.0666667,-121.31667,33.32,3.87,13.73,18.58,2.25,6.9
+"SDNHM",28603,12,5,1924,"shufeldti","M","U","United States","Oregon","Deschutes","SISTERS, OR",44.2909491,-121.54921,32.06,4.69,14.71,17.72,1.66,5.49
+"UCLA",20261,3,9,1919,"shufeldti","M","I","United States","Washington","Pierce","RANIER N.P. WA",46.855309,-121.743698,29.52,5.41,13.64,25.14,4.27,11.78
+"LACM",111695,19,9,1998,"shufeldti","F","A","United States","Washington","Whatcom","WHATCOM CO. MT. BAKER, WA",48.7773426,-121.8132,29.02,5.14,12.97,22.82,1.83,5.72
+"LACM",111696,19,9,1998,"shufeldti","F","I","United States","Washington","Whatcom","WHATCOM CO. MT. BAKER, WA",48.7773426,-121.8132,29.86,4.87,13.86,22.83,2.05,6.64
+"UCLA",20260,26,8,1919,"shufeldti","M","U","United States","Washington","Pierce","SPRAY PARK, RANIER NP WA",46.91538,-121.826,28.29,5.64,14.81,18.7,2.08,7.11
+"SDNHM",40737,18,9,1978,"shufeldti","M","I","United States","Washington","Skamania","SKAMANIA CO.",45.9749103,-121.88089,29.91,5.3,14.49,23.1,3.52,10.27
+"SDNHM",28611,31,7,1919,"shufeldti","M","U","United States","Washington","Pierce","MT RAINIER WA",46.8831622,-121.88455,28.58,4.73,15.35,18.22,1.41,4.67
+"UCLA",7883,25,4,1904,"shufeldti","M","U","United States","Washington","Pierce","SO. TACOMA, PIEREE CO., WA",47.2166667,-122.43333,27.19,4.83,14.32,16.36,2.05,5.61
+"SDNHM",44288,6,9,1978,"shufeldti","M","A","United States","Washington","Island","GRAMAYRE RD. GREENBANK, WA",48.0981503,-122.57294,31.57,5,13.07,20,2.01,5.34
+"SDNHM",28564,4,7,1920,"shufeldti","M","U","United States","Oregon","Multnomah","PORTLAND OREGON",45.5234515,-122.67621,31.78,3.5,13.59,21.89,1.81,5.77
+"SDNHM",28614,20,5,1921,"shufeldti","M","U","United States","Washington","Thurston","TEMINO WA",46.8567663,-122.85291,30.94,2.87,12.18,13.25,1.78,5.27
+"SDNHM",28597,30,5,1923,"shufeldti","M","U","United States","Oregon","Washington","TIMBER WASHINGTON CO. OREGON",45.7198337,-123.29456,32.05,4.24,14.99,20.08,2.25,5.61
+"SDNHM",2857,23,10,1924,"thurberi","F","I","United States","California","Imperial","1 M.N. POTHOLES IMPERIAL CO. CA",32.8434414,-114.50467,32.76,6.04,17.37,24.88,4.33,13
+"SDNHM",9624,23,10,1924,"thurberi","F","I","United States","California","Imperial","1 M.N. POTHOLES IMPERIAL CO. CA",32.8434414,-114.50467,32.92,5.64,16.22,25.07,2.9,8.77
+"SDNHM",2846,22,10,1924,"thurberi","F","A","United States","California","Imperial","2 M. N. BARD IMPERIAL CO.",32.81829,-114.555778,29.65,5.67,16.07,25.03,2.5,8.13
+"SDNHM",9611,22,10,1924,"thurberi","M","I","United States","California","Imperial","L.M.N.BARD IMPERIAL CO",32.8182363,-114.55734,31.59,5.38,17.07,21.44,2.01,6.29
+"SDNHM",9612,22,10,1924,"thurberi","F","I","United States","California","Imperial","2 M. N. BARD IMPERIAL CO.",32.8182363,-114.55734,31.14,6.25,17.92,24.08,3.22,10.68
+"SDNHM",17033,8,4,1935,"thurberi","M","U","United States","California","San Bernardino","PROVIDENCE MTNS., SAN BERNARDINO CA",34.982366,-115.50575,34.04,6.08,18.11,16.09,2.26,5.22
+"SDNHM",17016,5,4,1935,"thurberi","F","U","United States","California","San Bernardino","PROVIDENCE MOUNTAIN, SAN BERNARDINO",34.982366,-115.50668,33.8,5.34,16.66,23.2,3.01,8.23
+"SDNHM",17017,5,4,1935,"thurberi","F","U","United States","California","San Bernardino","PROVIDENCE MOUNTAIN, SAN BERNARDINO",34.982366,-115.50668,32.04,4.78,16.29,25.5,2.84,8.02
+"SDNHM",17024,7,4,1935,"thurberi","M","U","United States","California","San Bernardino","PROVIDENCE MTNS., SAN BERNARDINO CA",34.9678429,-115.52733,34.83,4.16,13.23,16.98,2.2,3.8
+"SDNHM",17018,6,4,1935,"thurberi","F","U","United States","California","San Bernardino","PROVIDENCE MOUNTAIN, SAN BERNARDINO",34.9518047,-115.53806,33.11,3.86,14.43,28.23,3.46,11.78
+"SDNHM",55349,9,10,2017,"thurberi","F","I","United States","California","San Bernardino","STUBBE SPRING, JOSHUA TREE",34.44916,-116.397,34.09,4.39,14.85,29.42,1.28,7.65
+"SDNHM",55320,5,10,2017,"thurberi","F","I","United States","California","San Bernardino","STUBBE SPRING, JOSHUA TREE",34.44916,-116.397,33.06,5.61,17.42,26.34,2.68,10.62
+"SDNHM",55325,6,10,2017,"thurberi","F","A","United States","California","San Bernardino","STUBBE SPRING, JOSHUA TREE",34.44916,-116.397,36.15,4.08,13.98,22.08,0.93,5.47
+"SDNHM",55313,4,10,2017,"thurberi","F","I","United States","California","San Bernardino","STUBBE SPRING, JOSHUA TREE",34.44916,-116.397,33.95,4.19,13.88,30.12,2.39,11.39
+"SDNHM",55332,7,10,2017,"thurberi","F","I","United States","California","San Bernardino","STUBBE SPRING, JOSHUA TREE",34.44916,-116.397,30.7,5.24,15.06,23.04,2.45,9.06
+"SDNHM",42998,11,4,1984,"thurberi","F","U","United States","California","San Diego","NR. ANTONE CANYON, 6.5MI S. MT. LAGUNA",32.7787034,-116.42045,34.27,5.61,16.58,24.71,2.85,10.36
+"SDNHM",43178,12,8,1984,"thurberi","M","A","United States","California","Riverside","VIRGIN SPRING, SANTA ROAST MT., RIVERSIDE",33.5305916,-116.42873,30.95,4.95,12.92,19.12,1.61,3.75
+"SDNHM",43179,12,8,1994,"thurberi","F","A","United States","California","Riverside","VIRGIN SPRING, SANTA ROSA MOUNTAINS",33.5305916,-116.42873,37.07,5.16,14.65,21.37,2.07,5.73
+"SDNHM",43177,12,8,1984,"thurberi","F","A","United States","California","Riverside","VIRGIN SPRING, SANTA ROSA MOUNTAINS",33.5305916,-116.42873,36.57,5.2,14.19,28.12,2,5.93
+"SDNHM",2862,12,5,1924,"thurberi","M","U","United States","California","San Diego","LAGUNA MTNS. SAN DIEGO",32.8697835,-116.43723,31.88,5.35,16.74,13.5,1.3,5.45
+"SDNHM",2611,8,10,1921,"thurberi","F","I","United States","California","San Diego","LAGUNA MTNS. SAN DIEGO",32.8697835,-116.43723,33.08,5.31,16.87,28.51,2.53,10.42
+"SDNHM",52779,21,9,2010,"thurberi","F","A","United States","California","Riverside","SANTA ROSA SPRING, SANTA ROSA MTNS.",33.5333,-116.45,32.32,4.67,11.96,23.74,1.36,4.26
+"SDNHM",52795,23,9,2010,"thurberi","M","I","United States","California","Riverside","SANTA ROSA SPRING, RIVERSIDE CO., CA",33.54009,-116.467,30.04,5.28,13.99,17.65,1.11,4.47
+"SDNHM",52817,4,10,2010,"thurberi","F","A","United States","California","Riverside","GARNET QUEEN MINE, SANTA ROSA MTNS., CA",33.54285,-116.48122,31.62,5.29,13.23,20.99,1.47,5
+"SDNHM",53914,26,6,2013,"thurberi","F","U","United States","California","Riverside","GARNET QUEEN MINE, SANTA ROSA MTNS., CA",33.54285,-116.48122,34.82,4.04,14.22,26.46,1.64,7.61
+"SDNHM",52818,4,10,2010,"thurberi","F","A","United States","California","Riverside","GARNET QUEEN MINE, SANTA ROSA MTNS., CA",33.544751,-116.48696,34.64,3.96,13.81,22.16,1.42,4.77
+"SDNHM",52276,29,4,2009,"thurberi","F","U","United States","California","Riverside","GARNET QUEEN MINE, SANTA ROSA MTNS., CA",33.544751,-116.48696,35.52,3.95,15.19,29.91,1.22,6.88
+"SDNHM",52024,17,6,2008,"thurberi","M","U","United States","California","Riverside","THOMAS MT. TOOL BOX SPRING RIVERSIDE CO. CA",33.54475,-116.487,33.93,4.95,14.24,16.38,1.16,4.61
+"SDNHM",52351,22,6,2009,"thurberi","M","U","United States","California","Riverside","SAN JACINTO MTNS. BETWEEN SKUNK CABBAGE AND DEER'S MEADOWS",33.54475,-116.487,32.04,4.76,13.5,14.62,1.44,4.37
+"SDNHM",42948,13,3,1984,"thurberi","F","U","United States","California","San Diego","1.1 MI ESE SUMMIT CORTE MADERA MT.",32.7515063,-116.56956,34.36,5.59,16.65,38.49,2.82,10.02
+"SDNHM",43162,21,7,1984,"thurberi","F","U","United States","California","San Diego","CUYAMACA PK. 0.3MI NE OF SUMMIT",32.9497946,-116.60276,32.55,4.88,13.28,23.69,2.28,6.26
+"SDNHM",48584,9,10,1993,"thurberi","M","I","United States","California","San Diego","1 MI. N OAK RIDGE, VOLCAN MT. SAN DIEGO",33.1577649,-116.61363,34.5,6.24,16.35,16.9,1.71,5.46
+"SDNHM",53842,18,4,2013,"thurberi","M","U","United States","California","Riverside","MORRIS CREEK AT QUINN FLAT, CA",33.6428,-116.6228,31.82,4.88,15.18,15.64,0.47,3.63
+"SDNHM",53815,15,4,2013,"thurberi","M","U","United States","California","Riverside","MORRIS CREEK AT QUINN FLAT, CA",33.6428,-116.6228,31.36,4.88,15.05,13.45,0.93,3.75
+"SDNHM",52340,21,6,2009,"thurberi","F","U","United States","California","Riverside","BETWEEN SKUNK CABBAGE AND REED'S MEADOWS",33.771687,-116.658628,34.11,4.47,14.97,21.53,2.1,6.44
+"SDNHM",52025,16,6,2008,"thurberi","F","U","United States","California","Riverside","THOMAS MT. TOOL BOX SPRING RIVERSIDE CO. CA",33.613024,-116.659879,32.93,4.72,14.52,18.01,1.71,5.24
+"SDNHM",54391,15,10,2014,"thurberi","M","A","United States","California","Riverside","MAGEE SPRING, THOMAS MT.",33.62134,-116.666592,33.26,6.22,15.06,14.78,0.55,2.74
+"SDNHM",53589,17,9,2012,"thurberi","F","A","United States","California","Riverside","REED'S MEADOW, SAN JACINTO",33.62134,-116.667,33.22,4.4,12.58,20.65,1.92,5.68
+"SDNHM",52737,18,8,2010,"thurberi","F","A","United States","California","Riverside","LOWER END OF TAHQUITZ MEADOW, SAN JACINTO MTNS.",33.768076,-116.667517,33.32,5.03,12.87,24.18,1.95,5.55
+"SDNHM",53438,27,3,2012,"thurberi","M","U","United States","California","Riverside","SE CORNER LAKE HEMET RIVERSIDE CO. CA",33.661,-116.6718,34.91,6.23,16.48,15.62,0.51,2.7
+"SDNHM",1036,8,4,1890,"thurberi","F","U","United States","California","San Diego","SANTA YSABEL SAN DIEGO",33.1092091,-116.67308,36.96,5.05,17.71,29.77,2.12,8.61
+"SDNHM",52392,26,8,2009,"thurberi","F","I","United States","California","Riverside","ROUND VALLEY, SAN JACINTO MTNS.",33.81446,-116.679,32.92,4.89,13.68,27.74,1.88,7.11
+"SDNHM",53179,23,8,2011,"thurberi","M","I","United States","California","Riverside","TOOL BOX SPRING, THOMAS MT. RIVERSIDE",33.61975,-116.68,29.56,4.86,12.88,18.5,1.36,3.86
+"SDNHM",53525,28,6,2012,"thurberi","F","U","United States","California","Riverside","STRAWBERRY CR. 0.5 MI. N HUMBER PARK RIVERSIDE",33.7721,-116.68663,36.07,4.06,14.57,20.19,1.41,4.35
+"SDNHM",53201,12,9,2011,"thurberi","M","I","United States","California","Riverside","PINE WOOD, SAN JACINTO, RIVERSIDE CO.",33.81474,-116.7377,31.77,5.93,14.65,19.41,1.97,6.01
+"SDNHM",52639,3,6,2010,"thurberi","M","U","United States","California","Riverside","1.6M E. VISTA GRANDE FIRE STATION",33.83665,-116.78217,38.69,5.5,15.19,15.65,1.02,3.55
+"SDNHM",52652,4,6,2010,"thurberi","F","U","United States","California","Riverside","0.6MI NNE VISTA GRANDE FIRE STATION",33.841269,-116.8064,35.36,3.32,13.57,29.48,1.34,5.08
+"SDNHM",53414,8,3,2012,"thurberi","F","U","United States","California","San Bernardino","OMSTATT CREEK 1.7 MI SW SUGARLOAF MTN.",34.165858,-116.821082,33.73,2.8,11.17,23.97,1.31,6.54
+"SDNHM",49767,30,9,1996,"thurberi","M","A","United States","California","San Diego","SOURDOUGH SPRING, PALOMAR MT., SAN DIEGO CO. CA",33.3650341,-116.83141,31.26,5.09,11.98,18.05,1.41,4.14
+"SDNHM",49766,30,9,1996,"thurberi","M","A","United States","California","San Diego","SOURDOUGH SPRING, PALOMAR MT., SAN DIEGO CO. CA",33.3650341,-116.83141,31.7,5.22,14.49,14.86,1.32,3.73
+"SDNHM",49768,30,9,1996,"thurberi","M","A","United States","California","San Diego","SOURDOUGH SPRING, PALOMAR MT., SAN DIEGO CO. CA",33.3650341,-116.83141,31.59,5.71,15.12,17.45,1.74,5.39
+"SDNHM",49770,30,9,1996,"thurberi","F","A","United States","California","San Diego","SOURDOUGH SPRING, PALOMAR",33.3650341,-116.83141,32.95,4.7,14.18,20.93,1.85,5.07
+"SDNHM",49772,30,9,1996,"thurberi","F","A","United States","California","San Diego","SOURDOUGH SPRING, PALOMAR",33.3650341,-116.83141,32.18,5.41,15.39,23.54,2.44,7.39
+"SDNHM",49773,30,9,1996,"thurberi","F","A","United States","California","San Diego","SOURDOUGH SPRING, PALOMAR",33.3650341,-116.83141,33.33,5.62,16.07,23.95,2.44,8.19
+"SDNHM",49771,30,9,1997,"thurberi","F","A","United States","California","San Diego","SOURDOUGH SPRING, PALOMAR",33.3650341,-116.83141,32.61,4.55,14.3,24.86,1.91,6.4
+"SDNHM",49765,30,9,1996,"thurberi","M","I","United States","California","San Diego","0.2mi nw high point, PALOMAR MOUNTAIN, CA",33.3654173,-116.83802,31.57,4.7,12.35,19.39,2.46,6.98
+"SDNHM",44413,1,9,1986,"thurberi","M","I","United States","California","San Diego","PALOMAR MOUNTAIN, SAN DIEGO CO., CA",33.3633652,-116.84076,28.94,5.59,13.59,18.96,1.85,4.54
+"SDNHM",44414,1,9,1986,"thurberi","M","I","United States","California","San Diego","PALOMAR MOUNTAIN, SAN DIEGO CO., CA",33.3633652,-116.84076,33.8,6.45,15.54,19,1.83,4.85
+"SDNHM",52529,1,3,2010,"thurberi","F","U","United States","California","Riverside","1.8 MI SE BANNING",33.909469,-116.852184,30.49,4.39,13.62,22.4,1.3,5.32
+"SDNHM",44854,20,10,1987,"thurberi","M","I","United States","California","San Diego","OTAY MT. SAN DIEGO CO.",32.5965769,-116.85299,31.65,4.54,14.59,21.14,2.31,7.42
+"SDNHM",14997,17,10,1931,"thurberi","M","I","United States","California","San Diego","SILVERCREST, PALOMAR MT",33.3392767,-116.86792,34.42,6.11,15.82,20.79,2.92,8.1
+"SDNHM",50659,22,9,2002,"thurberi","F","I","United States","California","San Diego","PALOMAR MTN., SD",33.3392767,-116.86792,31.69,5.26,16.81,25.68,3.04,10.72
+"SDNHM",1038,19,6,1892,"thurberi","F","U","United States","California","San Diego","SMITH MT. SAN DIEGO CO.",33.3392767,-116.86792,34.88,4.04,15.92,21.13,2.4,7.28
+"SDNHM",9283,9,3,1924,"thurberi","F","U","United States","California","San Diego","EAST END PALOMAR MTN.",33.3197706,-116.87616,35.58,5.27,16.74,22.92,2.47,7.46
+"SDNHM",14146,1,3,1931,"thurberi","F","U","United States","California","San Diego","4. M. SW RAMONA, SAN DIEGO CO.",32.9927257,-116.90076,34.45,4.93,17.74,27.5,2,7.79
+"SDNHM",9396,5,6,1924,"thurberi","F","U","United States","California","San Bernardino","BLUFF LALA SAN BERNARDINO MOUNTAINS CA",34.2199998,-116.96916,32.39,3.38,13.43,18.2,1.74,5.17
+"SDNHM",52534,2,3,2010,"thurberi","F","U","United States","California","Riverside","1.8 SE BANNING, RIVERSIDE",33.97382,-116.981,32.07,5.52,15.5,24.42,2.04,8.26
+"SDNHM",53829,16,4,2013,"thurberi","F","U","United States","California","Riverside","MORRIS CREEK AT QUINN FLAT",33.973815,-116.981237,37.13,4.55,15.42,16.34,1.32,4.43
+"SDNHM",51673,26,3,2007,"thurberi","M","U","United States","California","San Diego","CHULA VISTA, HILLTOP DR. AT H ST. CA",32.625954,-117.0137,29.65,5.58,15.17,14.25,1.4,4.52
+"SDNHM",39015,11,10,1974,"thurberi","M","A","United States","California","San Diego","SDSU",32.7739245,-117.07289,35.03,5.66,14.84,20.46,1.83,4.67
+"SDNHM",51646,17,5,2006,"thurberi","M","U","United States","California","San Diego","LA JOLLA, UCSD CAMPUS",32.8833353,-117.22919,33.67,6.05,16,13.74,1.22,4.35
+"SDNHM",50414,11,4,2000,"thurberi","F","U","United States","California","San Diego","LA JOLLA",32.8463367,-117.25121,33,4.89,15.22,26.33,1.83,6.25
+"SDNHM",52442,2,8,2009,"thurberi","F","U","United States","California","San Diego","LA JOLLA",32.84727,-117.274204,32.66,4.15,13.53,24.26,1.56,5.35
+"LACM",8076,25,4,2014,"thurberi","F","U","United States","California","San Bernardino","SAN GABRIEL MTNS.",34.288893,-117.64672,33.73,4.33,15.45,23.74,1.31,6.7
+"SDNHM",28461,16,9,1934,"thurberi","M","A","United States","California","Inyo","MONO NATIONAL FOREST, CA",36.4766,-118.031,31.85,5.5,14.53,18.24,1.84,5.56
+"LACM",9427,23,10,1896,"thurberi","F","I","United States","California","Los Angeles","BARLEY FLATS, LA",34.1,-118.0833,33.59,5.81,17.12,29.36,3.1,11.21
+"LACM",9410,1,4,1896,"thurberi","M","U","United States","California","Los Angeles","PASADENA",34.1444969,-118.13005,35.21,5.41,16.0533333,35.47,5.35,16
+"LACM",9397,29,10,1896,"thurberi","M","U","United States","California","Los Angeles","PASADENA",34.1444969,-118.13005,33.2,5.95,16.84,17.44,2.4,6.41
+"LACM",9388,17,10,1896,"thurberi","F","U","United States","California","Los Angeles","PASADENA",34.1444969,-118.13005,30.04,5.49,15.19,20.67,2.21,6.39
+"LACM",9398,31,10,1896,"thurberi","F","U","United States","California","Los Angeles","PASADENA",34.1444969,-118.13005,33.13,5.55,16.89,19.89,2.23,7.68
+"LACM",9402,13,10,1896,"thurberi","F","U","United States","California","Los Angeles","PASADENA",34.1444969,-118.13005,31.82,5.16,15.28,24.77,2.31,7.59
+"LACM",9423,21,10,1896,"thurberi","M","U","United States","California","Los Angeles","PASADENA",34.2666667,-118.15,34.33,6.21,16.41,14.6,1.97,5.3
+"LACM",19446,25,10,1914,"thurberi","F","I","United States","California","Los Angeles","HOLLYWOOD",34.0933456,-118.31026,32.64,4.56,14.83,23.92,2.31,7.92
+"LACM",3201,3,4,1919,"thurberi","F","U","United States","California","Los Angeles","OAKLAND CA",34.1,-118.36667,30.33,4.34,15.54,22.33,2.49,7.72
+"LACM",112070,19,10,2002,"thurberi","F","I","United States","California","Los Angeles","SAN CLEMENTE ISLAND, MAROPS, LA CO",32.9169846,-118.51065,33.48,5.95,16.75,23.95,3.15,10.24
+"LACM",85446,11,10,1972,"thurberi","M","I","United States","California","Inyo","BISHOP CREEK, INYO CO.",37.2560878,-118.57956,35.06,5.92,17.23,25.68,3.53,11.06
+"LACM",90819,27,4,1979,"thurberi","M","U","United States","California","Inyo","MIDDLEFORK OF BISHOP CREEK, INYO CO.",37.2560878,-118.57956,35.77,5.34,15.14,14.88,1.45,4.72
+"LACM",109432,5,10,1996,"thurberi","M","U","United States","California","Tulare","CAMP NELSON, TULARE CO., CA",36.1427269,-118.60926,32.6,6.03,15.89,20.61,2.22,6.72
+"SDNHM",28470,15,3,1919,"thurberi","F","U","United States","California","Ventura","POLE CT. CANYON, VENTURA",34.4322573,-118.88958,35.96,6.14,18.74,27.86,4.14,12.26
+"SDNHM",45175,10,10,1987,"thurberi","M","A","United States","California","Kern","1.7NE OF SUMMIT, FRAZIER MT. VENTURA, CA",34.792417,-118.947759,31.82,5.45,13.98,16.98,1.73,4.63
+"SDNHM",45174,10,10,1987,"thurberi","M","A","United States","California","Kern","1.7NE OF SUMMIT, FRAZIER MT. VENTURA, CA",34.792417,-118.947759,34.29,5.54,14.17,17.41,1.59,4.69
+"SDNHM",45177,10,10,1987,"thurberi","F","A","United States","California","Kern","1.7 NE OF SUMMIT, FRAZIER MTN.",34.792417,-118.947759,33.29,5.35,15.16,24.49,2.37,7.97
+"SDNHM",45178,11,10,1987,"thurberi","M","A","United States","California","Ventura","FRAZIER MT. VENTURA, CA",34.77498,-118.968989,32.911,6.19,15.83,16.83,1.53,4.92
+"LACM",85136,8,10,1973,"thurberi","M","I","United States","California","Los Angeles","SANTA BARBARA ISLAND",33.4833333,-119.01667,34.28,6.08,17.34,25.27,2.57,8.36
+"SDNHM",45153,11,10,1987,"thurberi","M","A","United States","California","Kern","1.8 MI ENE OF SUMMIT, MT. PINOS KERN CO., CA",34.8218937,-119.11889,32.95,4.53,15.12,20.77,2.38,7.64
+"SDNHM",28463,6,4,1928,"thurberi","M","U","United States","California","Ventura","MT. PINOS",34.811645,-119.14733,31.52,6.18,18.11,16.67,2.29,6.38
+"SDNHM",28464,6,4,1928,"thurberi","F","U","United States","California","Ventura","MT. PINOS",34.811645,-119.14733,33.87,4.46,15.91,25.69,2.1,6.64
+"SDNHM",35401,5,5,1965,"thurberi","F","U","United States","California","Ventura","EAST ANACAPA ISLAND",34.0143,-119.36723,33.46,5.7,17.22,20.17,2.48,6.69
+"SDNHM",46066,29,8,1989,"thurberi","F","A","United States","California","Santa Barbara","BIG PINE MOUNTAIN, SANTA BARABARA",34.696931,-119.654298,32.47,6.14,16.41,22.29,2.18,5.87
+"SDNHM",46967,29,8,1989,"thurberi","F","I","United States","California","Santa Barbara","BIG PINE MOUNTAIN, SANTA BARABARA",34.696931,-119.654298,31.09,5.2,14.12,28.09,2.95,9.3
+"SDNHM",46033,30,6,1989,"thurberi","M","I","United States","California","Santa Barbara","BIG PINE MOUNTAIN, SANTA BARBARA CO. CA",34.696931,-119.654298,32.84,6.66,15.76,20.75,2.03,5.38
+"SDNHM",46035,30,8,1989,"thurberi","F","A","United States","California","Santa Barbara","BIG PINE MOUNTAIN, SANTA BARABARA",34.696931,-119.654298,32.5,6.42,15.65,24.47,2.2,6.13
+"SDNHM",35218,6,8,1958,"thurberi","F","A","United States","California","Alpine","LOOKOUT PEAK, ALPINE MOUNTAIN",38.510743,-119.872959,38.2,4.77,14.94,23.91,2.44,7.12
+"LACM",85445,25,4,1968,"thurberi","F","U","United States","California","Santa Barbara","LAS VARAS CANYON",34.4666667,-119.91667,30.97,6.43,17.63,23.19,2.53,7.8
+"SDNHM",42316,4,6,1983,"thurberi","F","U","United States","California","Modoc","1/4 MI N. OF EMERSON LAKE",41.267082,-120.17728,37.79,4.06,16.04,31.27,2.75,11.87
+"SDNHM",35219,3,10,1959,"thurberi","M","I","United States","California","Nevada","3 mi. NW Hobart Mills, Sage Hen Creek Exp. Sta.",39.431205,-120.223604,28.71,5.62,13.94,19.09,3.1,8.07
+"SDNHM",1040,1,8,1894,"thurberi","F","U","United States","California","Modoc","LASSEN CREEK MODOC CT",41.8184082,-120.29102,33.75,5.1,17.42,24.7,2.44,7.71
+"SDNHM",45076,22,9,2002,"thurberi","F","I","United States","California","El Dorado","STONEBREAKER CR. AT BONETT RD.",38.715536,-120.461014,33.64,5.37,16.21,29.32,3.89,12.49
+"SDNHM",45091,23,9,1987,"thurberi","F","I","United States","California","El Dorado","STONEBREAKER CR. AT BONETT RD.",38.715536,-120.461014,33.18,5.1,14.99,30.65,3.42,13.25
+"SDNHM",45077,23,9,1987,"thurberi","M","I","United States","California","El Dorado","BONETTI RD. STONEBREAKER CR. EL DORADO CO. CA",38.715536,-120.461014,32.15,6.32,15.41,21.63,2.35,6.51
+"SDNHM",43268,17,9,1984,"thurberi","M","I","United States","California","Amador","COSUMNES RIVER",38.543037,-120.856054,32.25,5.32,13.85,25.14,3.6,9.26
+"SDNHM",28477,19,6,1932,"thurberi","M","U","United States","Oregon","Klamath","CURRIER CAMP RANGER STATION",42.7120947,-120.90776,34.67,3.37,13.35,18.67,1.46,4.64
+"SDNHM",28478,19,6,1932,"thurberi","F","U","United States","Oregon","Klamath","CURRIER CAMP RANGER STATION",42.7120947,-120.90776,34.55,4.85,16.81,27.6,2.3,8.12
+"LACM",23659,9,4,1918,"thurberi","F","U","United States","California","Modoc","CLEAR LAKE, MODOC CO. CA",41.87,-121.15,33.68,4.07,15.64,26.86,1.51,7.58
+"SDNHM",1047,17,6,1894,"thurberi","M","U","United States","California","Butte","MOUNTAIN HOUSE, BUTTE CO. CA",39.706275,-121.323853,32.2,5.12,16.84,19.18,1.56,6.12
+"SDNHM",28479,19,6,1928,"thurberi","F","U","United States","Oregon","Klamath","BONUNZA, KLAMATH CO. OREGON",42.1987607,-121.40611,35.11,4.14,15.62,18.37,2.18,6.47
+"LACM",51225,26,8,1942,"thurberi","M","U","United States","California","Siskiyou","SISKIYOU CO. CA",41.4132044,-122.37767,31.09,5.33,16.1,15.47,1.88,6.1
+"SDNHM",28609,21,10,1918,"thurberi","F","I","United States","California","Sonoma","KENWOOD, SONOMA CO.",38.4138,-122.546094,33.19,5.56,16.04,24.6,3.98,11.96
+"SDNHM",46550,18,10,1989,"thurberi","M","A","United States","California","Lake","5.5MI S OF MIDDLETOWN, LAKE CO., CA",38.672671,-122.614985,34.55,5.38,14.51,17.43,2.03,5.79
+"SDNHM",1039,30,5,1894,"thurberi","F","U","United States","California","Lake","BARTLETT MT. LAKE CO. CALIF",39.173121,-122.788368,34.15,5.39,17.6,24.69,2.87,8.73
+"SDNHM",45289,25,9,1984,"thurberi","M","A","United States","California","Trinity","1MI SOUTH OF BURNT RANCH, TRINITY CO., CA",40.7945347,-123.47421,32.8,5.94,15.21,19.65,1.97,4.38
+"SDNHM",45615,9,10,1988,"thurberi","M","A","United States","California","Trinity","BURNT RANCH, TRINITY CO., CA",40.8090267,-123.47421,35.55,5.3,13.36,19.09,1.95,5.49
+"SDNHM",45637,10,10,1988,"thurberi","M","A","United States","California","Trinity","BURNT RANCH, TRINITY CO., CA",40.8090267,-123.47421,35.82,4.7,14.48,19.64,1.93,5.2
+"SDNHM",45288,25,9,1987,"thurberi","F","I","United States","California","Trinity","1 MI S. OF BURNT RANCH, TRINITY CO.",40.7945347,-123.47421,33.4,4.73,15.18,25.13,2.08,5.84
+"SDNHM",45290,25,9,1987,"thurberi","F","A","United States","California","Trinity","1 MI S. OF BURNT RANCH, TRINITY CO.",40.7945347,-123.47421,32.06,4.86,15.69,24.02,2.02,7.34

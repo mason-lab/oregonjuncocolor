@@ -1,0 +1,10 @@
+"","Estimate","Std. Error","t value","Pr(>|t|)"
+"(Intercept)",1.296,0.203,6.396,0
+"SexF",0.417,0.088,4.757,0
+"AgeI",0.627,0.103,6.089,0
+"Subspeciesmontanus",-0.187,0.193,-0.967,0.3347
+"Subspeciesshufeldti",0.154,0.211,0.732,0.4648
+"Subspeciesthurberi",0.158,0.174,0.906,0.3658
+"Subspeciespinosus",0.537,0.206,2.609,0.0098
+"dayssincemolt",-0.001,0.001,-1.651,0.1003
+"specimenage",0.008,0.001,6.251,0

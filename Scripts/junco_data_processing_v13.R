@@ -3,7 +3,6 @@ require("colorspace")
 require("pavo")
 require("scatterplot3d")
 require("rgl")
-require("xlsx")
 require("agricolae")#Provides HSD.test()
 require("plotrix")
 require("MuMIn")
@@ -14,8 +13,10 @@ require("RColorBrewer")
 require(MASS)
 citation("MASS")
 
-### Read in Junco XLSX file ### This is the version with worn /aberrant individuals removed ###
-junco_data<-read.csv("~/Desktop/Manuscripts/Juncos/Data/OregonJuncoColoration_AppendixA_v6.csv",stringsAsFactors=F)
+setwd("~/oregonjuncocolor")
+
+### Read in Junco csv file ### 
+junco_data<-read.csv("Data/OregonJuncoColoration_AppendixA_v6.csv",stringsAsFactors=F)
 
 junco_data$Subspecies<-factor(junco_data$Subspecies,levels=c("oreganus","montanus","shufeldti","thurberi","pinosus"))
 
@@ -75,14 +76,14 @@ for(i in 1:6){
 names(glm_output)<-colnames(junco_data)[15:20]
 
 ### Create table of GLM output for SI / main ###
-png(file="~/Desktop/Manuscripts/Juncos/Figures/GLM_residuals_v4.png",width=6.5,height=6.5*(3/2),units="in",res=500)
+png(file="Figures/GLM_residuals_v4.png",width=6.5,height=6.5*(3/2),units="in",res=500)
 par(mfrow=c(3,2))
 foo_tab<-list()
 
 for(i in 1:length(glm_output)){
 	foo_tab[[i]]<-round(summary(glm_output[[i]])$coefficients,3)
 	foo_tab[[i]][,4]<-round(summary(glm_output[[i]])$coefficients,4)[,4]
-	write.xlsx(foo_tab[[i]],file=paste0("/Users/NickMason/Desktop/Manuscripts/Juncos/Tables/GLMoutput_",colnames(junco_data)[15:20][i],"_v5.xlsx"))
+	write.csv(foo_tab[[i]],file=paste0("Tables/GLMoutput_",colnames(junco_data)[15:20][i],"_v5.csv"))
 	hist(residuals(glm_output[[i]]),main=colnames(junco_data)[15:20][i],xlab="Residuals")
 }
 dev.off()
@@ -95,9 +96,12 @@ for(i in 1:length(glm_output)){
 }
 
 ### Get effect sizes of specimen ages out of models to report ###
+names(glm_output)[3]
 summary(glm_output[[3]])$coefficients['specimenage',1:2]
+names(glm_output)[5]
 summary(glm_output[[5]])$coefficients['specimenage',1:2]
-summary(glm_output[[6]])
+names(glm_output)[6]
+summary(glm_output[[6]])$coefficients['specimenage',1:2]
 
 ### BOX PLOTS BY SEX ###
 ### Set up colors for plotting ###
