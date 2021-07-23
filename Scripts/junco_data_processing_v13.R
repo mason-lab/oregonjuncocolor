@@ -110,16 +110,21 @@ junco_sexes_col<-c("gray95","gray60")
 ### Set up sex as a factor ###
 junco_data$Sex<-factor(junco_data$Sex)
 
+### Make sure to use corrected values for Hood.b, Back. a, and Back.b!
+
+### Fix y labels for corrected variables ###
+colnames(junco_data)[24]<-"Age..corrected.Hood.b"
+colnames(junco_data)[25]<-"Age..corrected.Back.a"
+colnames(junco_data)[26]<-"Age..corrected.Back.b"
+
+### Fix names for plotting ###
 #quartz(width=3.25,height=(3.25*2/3))
 
-png(file="~/Desktop/Manuscripts/Juncos/Figures/LABboxplots_sex_v6.png",width=3.25,height=(3.25*2/3),units="in",res=400)
+png(file="Figures/LABboxplots_sex_v7.png",width=3.25,height=((3.25*2/3)+0.5),units="in",res=400)
 par(mfrow=c(2,3))
 par(mar=c(0.5,2.25,0.5,0.5))
 par(oma=c(2.5,0,0,0))
 par(lwd=0.5)
-
-### Make sure to use corrected values for Hood.b, Back. a, and Back.b!
-ncol(junco_data)
 
 ### Box plots and Tukeys for sex and ssp ###
 for(i in 1:6){
@@ -138,12 +143,12 @@ for(i in 1:6){
 	axis(2,mgp=c(0,0.25,0),cex.axis=0.7,tck=-0.05,lwd=0.5)
 	
 	### Add Y labels ###
-	mtext(text=gsub("[.]"," ",colnames(junco_data[c(15,16,24,18,25,26)])[i]),side=2,line=1.2,cex=0.6)
+	mtext(text=gsub("[.]"," ",gsub("[.][.]","-",colnames(junco_data[c(15,16,24,18,25,26)])[i])),side=2,line=1.2,cex=0.6)
 	
 	### Add x labels ###
 	par(xpd=NA)
 	if(i %in% 4:6){
-		text(c("female","male"),x=1:2,y=par("usr")[3]-diff(par("usr")[3:4])*0.075,srt=90,adj=c(1,0.5),cex=0.8,font=1)
+		text(c("female","male"),x=1:2,y=par("usr")[3]-diff(par("usr")[3:4])*0.025,srt=90,adj=c(1,0.5),cex=0.8,font=1)
 		}
 	par(xpd=T)
 
@@ -165,7 +170,7 @@ junco_data$Age<-factor(junco_data$Age,levels=c("I","A"))
 
 #quartz(width=3.25,height=(3.25*2/3))
 
-png(file="~/Desktop/Manuscripts/Juncos/Figures/LABboxplots_age_v5.png",width=3.25,height=(3.25*2/3),units="in",res=400)
+png(file="Figures/LABboxplots_age_v6.png",width=3.25,height=((3.25*2/3)+0.5),units="in",res=400)
 par(mfrow=c(2,3))
 par(mar=c(0.75,2.25,0.5,0.5))
 par(oma=c(2.5,0,0,0))
@@ -189,12 +194,12 @@ for(i in 1:6){
 	axis(2,mgp=c(0,0.25,0),cex.axis=0.7,tck=-0.05,lwd=0.5)
 	
 	### Add Y labels ###
-	mtext(text=gsub("[.]"," ",colnames(junco_data[c(15,16,24,18,25,26)])[i]),side=2,line=1.2,cex=0.6)
+	mtext(text=gsub("[.]"," ",gsub("[.][.]","-",colnames(junco_data[c(15,16,24,18,25,26)])[i])),side=2,line=1.2,cex=0.6)
 	
 	### Add x labels ###
 	par(xpd=NA)
 	if(i %in% 4:6){
-		text(c("immature","adult"),x=1:2,y=par("usr")[3]-diff(par("usr")[3:4])*0.075,srt=90,adj=c(1,0.5),cex=0.8,font=1)
+		text(c("immature","adult"),x=1:2,y=par("usr")[3]-diff(par("usr")[3:4])*0.025,srt=90,adj=c(1,0.5),cex=0.8,font=1)
 		}
 	par(xpd=T)
 
@@ -212,7 +217,7 @@ dev.off()
 junco_cols<-qualitative_hcl(length(table(junco_data$Subspecies)), "Dark 3")
 
 #quartz(width=6.5,height=(6.5*2/3))
-png(file="~/Desktop/Manuscripts/Juncos/Figures/LAB_subspecies_boxplots_v6.png",width=6.5,height=(6.5*2/3),units="in",res=300)
+png(file="Figures/LAB_subspecies_boxplots_v7.png",width=6.5,height=((6.5*2/3)+0.5),units="in",res=300)
 par(mfrow=c(2,3))
 par(mar=c(0.5,3,0.5,1))
 par(oma=c(5,0,0,0))
@@ -234,11 +239,11 @@ for(i in 1:6){
 	char_bp<-boxplot(formula(paste0(colnames(junco_data)[c(15,16,24,18,25,26)][i],"~Subspecies")),data=junco_data,col= rev(junco_cols),ylim=char_ylim,axes=F,xlab="",ylab="")
 	box()
 	axis(2,mgp=c(0,0.75,0))
-	mtext(text=gsub("[.]"," ",colnames(junco_data[c(15,16,24,18,25,26)])[i]),side=2,line=1.75)
+	mtext(text=gsub("[.]"," ",gsub("[.][.]","-",colnames(junco_data[c(15,16,24,18,25,26)])[i])),side=2,line=1.75)
 	
 	par(xpd=NA)
 	if(i %in% 4:6){
-		text(tolower(levels(junco_data$Subspecies)),x=1:5,y=par("usr")[3]-diff(par("usr")[3:4])*0.05,srt=90,adj=c(1,0.5),cex=1.25,font=3)
+		text(tolower(levels(junco_data$Subspecies)),x=1:5,y=par("usr")[3]-diff(par("usr")[3:4])*0.025,srt=90,adj=c(1,0.5),cex=1.25,font=3)
 		}
 	par(xpd=T)
 
@@ -293,12 +298,14 @@ round(sum(diag(as.matrix(CV_tab_f))) / sum(CV_tab_f) * 100,2)
 junco_predict_f<-predict(junco_lda_nocv_f)
 
 ### Create figure for DFA analysis ###
-png(file="~/Desktop/Manuscripts/Juncos/Figures/DFA_output_v7.png",width=6.5,height=6.5/2,units="in",res=500)
-#quartz(width=6.25,height=6.5/2)
+png(file="Figures/DFA_output_v8.png",width=6.5,height=(6.5/2)+0.5,units="in",res=500)
+#quartz(width=6.25,height=(6.5/2)+0.5)
+
+## Panel A
 
 par(mfrow=c(1,2))
-par(mar=c(2.5,3,2,1))
-plot(-junco_predict_m$x[,1],-junco_predict_m$x[,2]*-1,axes=F,pch=21,bg=paste0(rev(junco_cols)[as.numeric(junco_data_m$Subspecies)],"80"),col= rev(junco_cols)[as.numeric(junco_lda_m$class)],lwd=2)
+par(mar=c(5,3,2,1))
+plot(-junco_predict_m$x[,1],-junco_predict_m$x[,2]*-1,axes=F,pch=21,bg=paste0(rev(junco_cols)[as.numeric(junco_data_m$Subspecies)],"80"),col= rev(junco_cols)[as.numeric(junco_lda_m$class)],lwd=2, xlab="",ylab="")
 title(main=paste0("Male DFA (",round(sum(diag(as.matrix(CV_tab_m))) / sum(CV_tab_m) * 100,2),"%)"),cex.main=1)
 box()
 axis(1,mgp=c(0,0.5,0),tck=-0.035,cex.axis=0.75)
@@ -306,9 +313,13 @@ mtext(text="LD1",side=1,line=1.5)
 axis(2,mgp=c(0,0.5,0),tck=-0.035,cex.axis=0.75)
 mtext(text="LD2",side=2,line=1.5)
 text(x=par("usr")[1]+diff(c(par("usr")[1],par("usr")[2]))*0.05,y=par("usr")[4]-diff(c(par("usr")[3],par("usr")[4]))*0.05,label=LETTERS[1],font=2,cex=1)
-legend("bottomright",legend=paste0(tolower(levels(junco_data_m$Subspecies))," (",diag(as.matrix(CV_tab_m)),"/", apply(as.matrix(CV_tab_m),1,sum)," = ",round(diag(as.matrix(CV_tab_m))/apply(as.matrix(CV_tab_m),1,sum)*100,2),"%)"),pt.cex=0.75,cex=0.3,pch=21,pt.bg=paste0(rev(junco_cols),"80"), col=junco_cols,lwd=0,x.intersp=0,box.lwd=1,bg="transparent")
+par(xpd=NA)
 
-plot(junco_predict_f$x[,1]*-1,junco_predict_f$x[,2],axes=F,pch=21,bg=paste0(rev(junco_cols)[as.numeric(junco_data_f$Subspecies)],"80"),col= rev(junco_cols)[as.numeric(junco_lda_f$class)],lwd=2)
+legend(x=par()$usr[1]-diff(c(par()$usr[1],par()$usr[2])) * 0.2,y=par()$usr[3]-diff(c(par()$usr[3],par()$usr[4])) * 0.2,legend=paste0(tolower(levels(junco_data_m$Subspecies))," (",diag(as.matrix(CV_tab_m)),"/", apply(as.matrix(CV_tab_m),1,sum)," = ",round(diag(as.matrix(CV_tab_m))/apply(as.matrix(CV_tab_m),1,sum)*100,2),"%)"),pt.cex=1,cex=0.65,pch=21,pt.bg=paste0(rev(junco_cols),"80"), col=junco_cols,lwd=0,x.intersp=0,box.lwd=0,bg="transparent",ncol=2,text.width=4.5)
+
+## Panel B
+
+plot(junco_predict_f$x[,1]*-1,junco_predict_f$x[,2],axes=F,pch=21,bg=paste0(rev(junco_cols)[as.numeric(junco_data_f$Subspecies)],"80"),col= rev(junco_cols)[as.numeric(junco_lda_f$class)],lwd=2,xlab="",ylab="")
 title(main=paste0("Female DFA (",round(sum(diag(as.matrix(CV_tab_f))) / sum(CV_tab_f) * 100,2),"%)"),cex.main=1)
 box()
 axis(1,mgp=c(0,0.5,0),tck=-0.035,cex.axis=0.75)
@@ -316,7 +327,8 @@ mtext(text="LD1",side=1,line=1.5)
 axis(2,mgp=c(0,0.5,0),tck=-0.035,cex.axis=0.75)
 mtext(text="LD2",side=2,line=1.5)
 text(x=par("usr")[1]+diff(c(par("usr")[1],par("usr")[2]))*0.05,y=par("usr")[4]-diff(c(par("usr")[3],par("usr")[4]))*0.05,label=LETTERS[2],font=2,cex=1)
-legend("bottomright",legend=paste0(tolower(levels(junco_data_f$Subspecies))," (",diag(as.matrix(CV_tab_f)),"/", apply(as.matrix(CV_tab_f),1,sum)," = ",round(diag(as.matrix(CV_tab_f))/apply(as.matrix(CV_tab_f),1,sum)*100,2),"%)"),pt.cex=0.75,cex=0.3,pch=21,pt.bg= paste0(rev(junco_cols),"80"),lwd=0,x.intersp=0,box.lwd=1,bg="transparent")
+
+legend(x=par()$usr[1]-diff(c(par()$usr[1],par()$usr[2])) * 0.225,y=par()$usr[3]-diff(c(par()$usr[3],par()$usr[4])) * 0.2,legend=paste0(tolower(levels(junco_data_f$Subspecies))," (",diag(as.matrix(CV_tab_f)),"/", apply(as.matrix(CV_tab_f),1,sum)," = ",round(diag(as.matrix(CV_tab_f))/apply(as.matrix(CV_tab_f),1,sum)*100,2),"%)"),pt.cex=1,cex=0.65,pch=21,pt.bg=paste0(rev(junco_cols),"80"), col=junco_cols,lwd=0,x.intersp=0,box.lwd=0,bg="transparent",ncol=2,text.width=4.5)
 
 dev.off()
 
